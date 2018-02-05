@@ -19,6 +19,7 @@
   "author": "P'unk Avenue LLC",
   "license": "MIT",
   "dependencies": {
+    "@google-cloud/storage": "^1.5.2",
     "async": "^1.0.0",
     "aws-sdk": "^2.81.0",
     "es6-promise": "^4.1.0",
